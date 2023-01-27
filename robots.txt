@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://darchedesign.github.io/darchedesign.com/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Darche Designs",
+    "description": "",
+    "home_page_url": "https://darchedesign.github.io/darchedesign.com",
+    "feed_url": "https://darchedesign.github.io/darchedesign.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jennifer Darche"
+    },
+    "items": [
+    ]
+}
