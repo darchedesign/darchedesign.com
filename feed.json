@@ -9,5 +9,29 @@
         "name": "Jennifer Darche"
     },
     "items": [
+        {
+            "id": "https://darchedesign.github.io/darchedesign.com/portfolio/",
+            "url": "https://darchedesign.github.io/darchedesign.com/portfolio/",
+            "title": "Portfolio",
+            "author": {
+                "name": "Jennifer Darche"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-27T10:59:50-07:00",
+            "date_modified": "2023-01-27T10:59:50-07:00"
+        },
+        {
+            "id": "https://darchedesign.github.io/darchedesign.com/home/",
+            "url": "https://darchedesign.github.io/darchedesign.com/home/",
+            "title": "Home",
+            "author": {
+                "name": "Jennifer Darche"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-27T10:59:39-07:00",
+            "date_modified": "2023-01-27T10:59:39-07:00"
+        }
     ]
 }
